@@ -4,9 +4,7 @@ Screenshot
 ---------------------
 ![](http://i.imgur.com/Uq9FvnO.png)
 
-Demo Link
----------------------
-http://www.markwylde.co.uk/cookbook/
+
 
 Information
 ---------------------
